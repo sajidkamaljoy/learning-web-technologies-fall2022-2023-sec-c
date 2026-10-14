@@ -1,5 +1,7 @@
 # Learning Web Technologies (Fall 2022-2023, Section C)
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/learning-web-technologies-fall2022-2023-sec-c](https://github.com/sajid43677/learning-web-technologies-fall2022-2023-sec-c), and was moved to this account in October 2026.
+
 Lab tasks and the course project for the Web Technologies course at AIUB, by Shajid Kamal Joy. The work moves from plain HTML and XML to PHP with MySQL.
 
 ## Contents
